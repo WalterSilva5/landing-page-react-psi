@@ -1,5 +1,4 @@
 import React from 'react'
-import psicologa from './assets/psicologa.png'
 function App() {
   return (
     <div>
@@ -15,7 +14,7 @@ function App() {
       >
         <div className="col-md-5 px-0 d-flex text-center justify-content-center">
           <img
-            src={psicologa}
+            src="https://raw.githubusercontent.com/WalterSilva5/landing-page-react-psi/main/src/assets/psicologa.png"
             alt="psicologa imagem"
             className="img-fluid col-12 py-0"
             style={{ height: '100%', width: '70%' }}
